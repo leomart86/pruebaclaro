@@ -61,6 +61,10 @@ body{
     height: 350px;
 }
 
+.dem-imagen{
+    margin: 0 auto;
+}
+
 p.thumbs-video {
     font-size: 14px;
 }
